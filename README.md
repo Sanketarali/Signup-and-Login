@@ -58,4 +58,9 @@ Logout using the logout button.<br>
 # Screenshots
 <h3>Signup Page</h3>
 
-![Screenshot 2024-07-09 230653](https://github.com/Sanketarali/Signup-and-Login/assets/110754364/e3f25c10-a71e-46ff-a056-acc89e5fbcce)
+![image](https://github.com/Sanketarali/Signup-and-Login/assets/110754364/47829755-0bf1-4681-b120-d53c4369e9b5)
+
+# Login Page
+
+![image](https://github.com/Sanketarali/Signup-and-Login/assets/110754364/d46ce9a9-a4bf-4f34-9fe3-ac19af0a70b6)
+
